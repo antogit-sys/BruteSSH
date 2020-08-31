@@ -1,6 +1,6 @@
 # BruteSSH
 
-mini tool programmato in Py con licenza gplv3 **utilizzabile solo su sistemi Linux**;è in grado di compietere un **attacco bruteforce** usando il protocollo** ssh**,questo mini tool fa uso di ncrack(tool che si occupa di fare il bruteforce) e crunch(tool che si occupa di creare una lista di password)
+mini tool programmato in Py con licenza gplv3 **utilizzabile solo su sistemi Linux**;è in grado di compiere un **attacco bruteforce** usando il protocollo** ssh**,questo mini tool fa uso di ncrack(tool che si occupa di fare il bruteforce) e crunch(tool che si occupa di creare una lista di password)
 
 
 
